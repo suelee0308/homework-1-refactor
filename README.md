@@ -53,4 +53,4 @@
 - Oversimplified CSS and broke href key. Had to redo CSS refactoring (which was out of the scope of this activity) but in refactoring, I commented out the original CSS that was repetitive instead of completely deleting it, which helped fix the CSS easier than when I had broken it.
 - Wrote README after completing the HTML and CSS changes. Thought pushing changes along the way was enough.
 
-![Screenshot of deployed website"](./assets/Images/screencapture-suelee0308-github-io-homework-1-refactor-2021-09-16-09_51_49.png)
+![Screenshot of deployed website"](./assets/images/screencapture-suelee0308-github-io-homework-1-refactor-2021-09-16-09_51_49.png)

@@ -1,5 +1,5 @@
 # homework-1-refactor
-##HTML Changes Made
+## HTML Changes Made
 1. Changed first **div element** to **header element** because element contains a h1 header at the top of the page.
 
 2.  Within the new **header element** changed **div element** that contains the ul into **nav element** because the list is a navigation bar on the webpage.
@@ -25,7 +25,7 @@
 
 ---
 
-##CSS Changes Made
+## CSS Changes Made
 1. Changed all **header div** elements to **header nav** elements to effect all the new **nav** elements in the html.
 
 2. Reduced **.benefit-lead**, **.benefit-brand**, **.benefit-cost**, to one selector **aside-artcle** because all articles within the aside had the same styles.
@@ -44,11 +44,11 @@
 
 ---
 
-##Other notes
--HTML and CSS was done individually.
--W3 schools HTML semantics was used to change div tags.
--Read through classmate's README before writing mine.
+## Other notes
+- HTML and CSS was done individually.
+- W3 schools HTML semantics was used to change div tags.
+- Read through classmate's README before writing mine.
 
-##Mistakes made along the way
--Oversimplified CSS and broke href key. Had to redo CSS refactoring (which was out of the scope of this activity) but in refactoring, I commented out the original CSS that was repetitive instead of completely deleting it, which helped fix the CSS easier than when I had broken it.
--Wrote README after completing the HTML and CSS changes. Thought pushing changes along the way was enough.
+## Mistakes made along the way
+- Oversimplified CSS and broke href key. Had to redo CSS refactoring (which was out of the scope of this activity) but in refactoring, I commented out the original CSS that was repetitive instead of completely deleting it, which helped fix the CSS easier than when I had broken it.
+- Wrote README after completing the HTML and CSS changes. Thought pushing changes along the way was enough.

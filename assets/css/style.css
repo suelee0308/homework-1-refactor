@@ -1,12 +1,17 @@
+/* universal styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* header */
 
 .header {
     padding: 20px;
@@ -41,14 +46,23 @@ body {
     margin-left: 25px;
 }
 
+
+/* hyperlinks */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+
+/* all paragraphs */
+
 p {
     font-size: 16px;
 }
+
+
+/* image */
 
 .hero {
     height: 800px;
@@ -58,6 +72,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* positioning */
 
 .float-left {
     float: left;
@@ -74,6 +90,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* aside styling */
 
 .benefits {
     margin-right: 20px;
@@ -150,6 +168,8 @@ aside article img {
     max-width: 150px;
 } */
 
+/* main styling */
+
 main article {
     margin-bottom: 20px;
     padding: 50px;
@@ -221,6 +241,8 @@ main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 } */
+
+/* footer */
 
 .footer {
     padding: 30px;
